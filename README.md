@@ -19,4 +19,4 @@ What I’ve settled a progressive build out of a **pneumatic potato gun**. Each 
 7. **Programming With Hardware** – Connect the  pressure and orientation sensors to an [arduino](http://www.arduino.cc/) and use the live data to determine the spud's flight time and distance.
 8. **Motorized Tripod** – If we still have time after we cover all the topics above we can combine everything we've learned to build a two axis motorized tripod that allows for pitch and yaw control. I am thinking this would be controlled by the arduino and could allow for precise targeting and firing mechanisms.
 
-_A huge thank you to [@keving1977](https://twitter.com/keving1977/status/557182766765596673) for coming up with the name **Spudnick** after I asked for help [help](https://twitter.com/banderson623/status/557177826349043713)._
+_A huge thank you to [@keving1977](https://twitter.com/keving1977/status/557182766765596673) for coming up with the name **Spudnick** after I asked for [help](https://twitter.com/banderson623/status/557177826349043713)._
