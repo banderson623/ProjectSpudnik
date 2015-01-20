@@ -31,7 +31,7 @@ Quickly write up  a process, using the scientific method framework, for somethin
 3. Evaluate the outcome
 4. Reflect on their prediction, given their findings
 
-Quiz and Assement
+Quiz and Assessment
 =================
 _Did they get it? I am unsure of this section, but maybe a few questions to determine if the core concepts are understood_
 
