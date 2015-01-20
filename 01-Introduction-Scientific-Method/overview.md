@@ -8,7 +8,7 @@ Materials
 ==========
 _What is needed?_
 
-* **Notebook** – to catalogue our journey, work out equations and record our findings.
+* **Notebook** – to catalogue our journey, work out equations and record our findings. They will use this notebook for the duration of this project. So it should be big enough to capture it all. I like pencil and paper, because at this point, it is still the fastest way to write, draw and chart our findings.
 * **Pencil** – Nothing fancy, something that allows graphite to be placed in the journal.
 
 Overview
@@ -20,7 +20,7 @@ _What are we doing?_
 
 Experiment
 ==========
-_What can we do to test and understand this concept?_
+_How can we test and understand this concept?_
 
 Admittely this is pretty lame, the experiments will get better.
 
