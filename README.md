@@ -10,6 +10,9 @@ I needed to find a project that would be interesting to middle school boys, so I
 
 I’ve settled on a progressive buildout of a **pneumatic potato gun**. Each section we will read, discuss and _hopefully_ build an experiment to explore the concepts.
 
+## Key Concepts:
+
+
 1. Refresher on the **[Scientific Method](http://en.wikipedia.org/wiki/Scientific_method)** – Question, Hypothesis, Prediction, Testing.
 2. **Physics of Compressed Air** – [Pressure](http://en.wikipedia.org/wiki/Pressure), how does that potato fly so far?
 3. **Basic Electronics** – [Series and Parallel circuits ](http://en.wikipedia.org/wiki/Series_and_parallel_circuits). Building a solenoid based ([Electromagnet](http://en.wikipedia.org/wiki/Electromagnet) triggering mechanism.
