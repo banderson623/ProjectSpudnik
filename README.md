@@ -4,14 +4,13 @@ Read more over at [http://bitbyteyum.com](http://bitbyteyum.com).
 
 ---
 
-# The Project – Spudnick
+# The Project – Spudnik
 
 I needed to find a project that would be interesting to middle school boys, so I gravitated toward explosions or projectiles.
 
 I’ve settled on a progressive buildout of a **pneumatic potato gun**. Each section we will read, discuss and _hopefully_ build an experiment to explore the concepts.
 
 ## Key Concepts:
-
 
 1. Refresher on the **[Scientific Method](http://en.wikipedia.org/wiki/Scientific_method)** – Question, Hypothesis, Prediction, Testing.
 2. **Physics of Compressed Air** – [Pressure](http://en.wikipedia.org/wiki/Pressure), how does that potato fly so far?
@@ -22,4 +21,4 @@ I’ve settled on a progressive buildout of a **pneumatic potato gun**. Each sec
 7. **Programming With Hardware** – Connect the  pressure and orientation sensors to an [arduino](http://www.arduino.cc/) and use the live data to determine the spud's flight time and distance.
 8. **Motorized Tripod** – If we still have time after we cover all the topics above we can combine everything we've learned to build a two axis motorized tripod that allows for pitch and yaw control. I am thinking this would be controlled by the arduino and could allow for precise targeting and firing mechanisms.
 
-_A huge thank you to [@keving1977](https://twitter.com/keving1977/status/557182766765596673) for coming up with the name **Spudnick** after I asked for [help](https://twitter.com/banderson623/status/557177826349043713)._
+_A huge thank you to [@keving1977](https://twitter.com/keving1977/status/557182766765596673) for coming up with the name **Spudnick**, and then [@regentscholar](https://twitter.com/regentscholar) tweaking it to **Spudnik** after I asked for [help](https://twitter.com/banderson623/status/557177826349043713)._
