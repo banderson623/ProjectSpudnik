@@ -1,12 +1,12 @@
-# Project Spudnick
 An n-week long project to build a pneumatic computer controlled potato canon as an introduction to physics, electricity, circuits and coding. This is geared toward middle school aged students. I am not a teacher and this is my first attempt at something like this.
 
 Read more over at [http://bitbyteyum.com](http://bitbyteyum.com).
 
+---
 
 # The Project – Spudnick
 
-I needed to find a project that would be interesting to middle school boys, so I gravitated toward explosions and projectiles[^boom].
+I needed to find a project that would be interesting to middle school boys, so I gravitated toward explosions or projectiles.
 
 What I’ve settled a progressive build out of a **pneumatic potato gun**. Each sectionwe will be reading, talking about and _hopefully_ build an experiment to explore the idea.
 
