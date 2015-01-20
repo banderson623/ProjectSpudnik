@@ -8,7 +8,7 @@ Read more over at [http://bitbyteyum.com](http://bitbyteyum.com).
 
 I needed to find a project that would be interesting to middle school boys, so I gravitated toward explosions or projectiles.
 
-What I’ve settled a progressive build out of a **pneumatic potato gun**. Each sectionwe will be reading, talking about and _hopefully_ build an experiment to explore the idea.
+I’ve settled on a progressive buildout of a **pneumatic potato gun**. Each section we will read, discuss and _hopefully_ build an experiment to explore the concepts.
 
 1. Refresher on the **[Scientific Method](http://en.wikipedia.org/wiki/Scientific_method)** – Question, Hypothesis, Prediction, Testing.
 2. **Physics of Compressed Air** – [Pressure](http://en.wikipedia.org/wiki/Pressure), how does that potato fly so far?
